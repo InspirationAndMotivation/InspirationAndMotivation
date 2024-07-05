@@ -1,7 +1,7 @@
 ## Hello, World! 👋
 
 Welcome to My GitHub Profile!
-I'm Anastasia, a passionate programming enthusiast from Calgary, Canada 🇨🇦 (originally from Ukraine 🇺🇦). This is where I showcase my journey through the realms of website development.
+I'm Anastasia, a passionate programming enthusiast from Calgary, Canada 🍁(originally from Ukraine 🥟). This is where I showcase my journey through the realms of website development.
 
 😄 Pronouns:
 
