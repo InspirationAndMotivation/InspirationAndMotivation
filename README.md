@@ -9,6 +9,7 @@ her/she/this really nice person
 
 🔭 I’m currently working on:
 
+Memory game - Pet project with cards that need be paired
 Weather app - Pet project with using Weather API to get your weather forecast
 Pizza designed project - Pet project with interesting animations of changing pizza
 
